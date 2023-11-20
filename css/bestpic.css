@@ -1,0 +1,76 @@
+@charset "UTF-8";
+.container-fluid {
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+}
+.my_h5 {
+	font-size: 3em;
+}
+.container-fluid #sec2 {
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-size: x-large;
+	font-weight: normal;
+	margin-top: 5%;
+	margin-bottom: 5%;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	width: 90%;
+	position: relative;
+}
+.container-fluid #sec3 {
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 1.5em;
+	font-weight: bold;
+	padding-bottom: 11%;
+	margin-top: 97%;
+}
+#sec2 .col-lg-12 .img-responsive {
+	position: absolute;
+	-webkit-transition: all .5s .5s;
+	-o-transition: all .5s .5s;
+	transition: all .5s .5s;
+}
+#sec1 .col-lg-12 h1 {
+	position: absolute;
+	color: #FFFFFF;
+	font-size: 5em;
+	padding-left: 32%;
+	padding-top: 7%;
+	padding-bottom: 7%;
+	padding-right: 31px;
+}
+.my_h3 {
+	font-size: xx-large;
+	font-weight: bold;
+}
+#big {
+}
+#template {
+	width: 110%;
+}
+
+@media (max-width:649px){
+#sec1 .col-lg-12 h1 {
+	font-size: 4em;
+	padding-left: 19%;
+	padding-right: 19%;
+}
+}
+
+@media (min-width:650px) and (max-width:959px){
+#sec1 .col-lg-12 h1 {
+	padding-left: 21%;
+	padding-right: 21%;
+}
+}
+
+@media (min-width:960px) and (max-width:1200px){
+}
+#sec2 .col-lg-12 .img-responsive:hover {
+	-webkit-opacity: 0;
+	opacity: 0;
+}

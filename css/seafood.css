@@ -1,0 +1,95 @@
+@charset "UTF-8";
+#sec1   {
+	text-align: center;
+	font-size: 2em;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	background-image: url(../images/seafood1.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: 0% 16%;
+	color: #F0F0F0;
+	padding-top: 7%;
+	padding-bottom: 7%;
+	padding-left: 12%;
+	padding-right: 12%;
+}
+.my_h13 {
+	font-size: 3em;
+	text-align: center;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+}
+#sec1 .col-lg-12 {
+	border-style: solid;
+	border-color: #FFFFFF;
+}
+#sec3 {
+	text-align: center;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	padding-left: 5%;
+	padding-right: 5%;
+	margin-top: 3%;
+	padding-top: 1%;
+	font-size: x-large;
+	font-weight: bold;
+	-webkit-transition: all .5s ease-in .5s;
+	-o-transition: all .5s ease-in .5s;
+	transition: all .5s ease-in .5s;
+}
+#sec2 {
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-size: x-large;
+	font-weight: normal;
+	margin-top: 5%;
+	margin-bottom: 5%;
+	text-align: center;
+}
+#sec2 .col-lg-12 .row .col-lg-6 {
+	text-align: left;
+	padding-top: 3%;
+}
+.my_h3 {
+	font-size: xx-large;
+	font-weight: bold;
+	text-align: center;
+}
+.container-fluid {
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+}
+#sec3:hover {
+	background-color: #8EC5D2;
+}
+#sec4 {
+	-webkit-transition: all .5s ease-in .5s;
+	-o-transition: all .5s ease-in .5s;
+	transition: all .5s ease-in .5s;
+	text-align: center;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	padding-left: 5%;
+	padding-right: 5%;
+	margin-top: 3%;
+	padding-top: 1%;
+	font-size: x-large;
+	font-weight: bold;
+}
+#sec5 {
+	-webkit-transition: all 0.5s ease-in 0.5s;
+	-o-transition: all 0.5s ease-in 0.5s;
+	transition: all 0.5s ease-in 0.5s;
+	text-align: center;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	padding-left: 5%;
+	padding-right: 5%;
+	margin-top: 3%;
+	padding-top: 1%;
+	font-size: x-large;
+	font-weight: bold;
+	padding-bottom: 9%;
+}
+#sec4:hover {
+	background-color: #B4EED5;
+}
+#sec5:hover {
+	background-color: #9FBBDA;
+}

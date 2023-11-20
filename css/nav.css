@@ -1,0 +1,14 @@
+@charset "UTF-8";
+.navbar-brand {
+	background-image: url(../images/fishicon.png);
+	background-repeat: no-repeat;
+	background-size: contain;
+	padding-left: 5%;
+	background-position: -1% 0%;
+}
+
+@media (min-width:650px) and (max-width:959px){
+.navbar-brand {
+	padding-left: 55%;
+}
+}

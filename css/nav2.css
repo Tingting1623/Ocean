@@ -1,0 +1,6 @@
+@charset "UTF-8";
+.navbar-brand {
+	background-image: url(../images/fishicon.png);
+	padding-left: 51%;
+	background-repeat: no-repeat;
+}

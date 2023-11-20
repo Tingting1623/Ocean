@@ -1,0 +1,87 @@
+@charset "UTF-8";
+.my_h4 {
+	font-size: 200%;
+	font-weight: bold;
+}
+#header {
+	position: relative;
+}
+#sec2 .col-lg-12 h1 {
+	position: absolute;
+	color: #FFFFFF;
+	left: 53%;
+	top: 21%;
+}
+#sec4 .col-lg-12 h1 {
+	position: absolute;
+	color: #FFFFFF;
+	left: 53%;
+	top: 21%;
+}
+#sec2 {
+	position: relative;
+}
+#sec4 {
+	position: relative;
+}
+#header .col-lg-12 h1 {
+	position: absolute;
+	color: #FFFFFF;
+	left: 5%;
+	top: 17%;
+}
+#footer {
+	padding-top: 5%;
+	padding-bottom: 5%;
+	text-align: center;
+	color: #FFFFFF;
+	background-color: #103D62;
+}
+.my_ht {
+	font-size: x-large;
+	font-weight: bold;
+}
+.my_h5 {
+	font-size: 300%;
+}
+#container2 #sec3 {
+	padding-top: 5%;
+	font-size: large;
+	margin-top: 7%;
+	margin-bottom: 9%;
+}
+#container2 #sec6 {
+	padding-top: 5%;
+	font-size: large;
+	margin-top: 7%;
+	margin-bottom: 9%;
+}
+#container2 {
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+}
+.container-fluid #sec1 {
+	text-align: left;
+	font-size: 200%;
+	font-weight: normal;
+	padding-top: 5%;
+	padding-bottom: 0%;
+	margin-bottom: 15%;
+}
+
+
+.container-fluid {
+	margin-left: auto;
+	margin-right: auto;
+	width: 70%;
+}
+
+@media (max-width:649px){
+#header .col-lg-12 h1 {
+	font-size: large;
+}
+}
+
+@media (min-width:650px) and (max-width:959px){
+}

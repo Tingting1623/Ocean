@@ -1,0 +1,100 @@
+@charset "UTF-8";
+.container-fluid {
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+}
+#sec8  {
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	text-align: center;
+	margin-top: 9%;
+}
+.my_h5 {
+	font-size: 7em;
+	font-weight: bold;
+}
+.container-fluid #sec6 {
+	margin-top: 3%;
+	padding-top: 1%;
+	padding-left: 0%;
+	background-repeat: no-repeat;
+	background-size: contain;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	border-bottom: 2px solid #807C7C;
+	font-size: 5em;
+	font-weight: bold;
+}
+.container-fluid .embed-responsive.embed-responsive-16by9 {
+	margin-top: 3%;
+}
+.container-fluid #sec14 {
+	margin-top: 8%;
+	padding-top: 1%;
+	padding-left: 0%;
+	background-repeat: no-repeat;
+	background-size: contain;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	font-size: large;
+	border-bottom: 2px solid #807C7C;
+	text-align: center;
+	margin-bottom: 6%;
+}
+.container-fluid #sec7 {
+	margin-top: 3%;
+	padding-top: 1%;
+	padding-left: 0%;
+	background-repeat: no-repeat;
+	background-size: contain;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	font-size: large;
+	border-bottom: 2px solid #807C7C;
+	margin-bottom: 7%;
+}
+.container-fluid #sec10 {
+	margin-top: 17%;
+	padding-top: 0%;
+	padding-left: 0%;
+	padding-bottom: 0%;
+	background-repeat: no-repeat;
+	background-size: contain;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	font-size: 2.5em;
+	text-align: center;
+}
+#sec4 {
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: 94% 0%;
+	margin-top: 3%;
+	margin-bottom: 0%;
+	text-align: left;
+	font-size: 1.5em;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	padding-top: 5%;
+	padding-bottom: 5%;
+}
+#sec3 {
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: 94% 0%;
+	margin-top: 3%;
+	margin-bottom: 0%;
+	text-align: left;
+	font-size: 1.5em;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	padding-top: 5%;
+	padding-bottom: 5%;
+}
+.my_h3 {
+	font-size: 3em;
+	font-weight: bold;
+}
+.container-fluid #sec12 {
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	font-size: xx-large;
+	margin-top: 9%;
+	text-align: center;
+}
+#sec8 .col-lg-12 #a1 {
+	margin-top: 2%;
+}

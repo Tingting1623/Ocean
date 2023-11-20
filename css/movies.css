@@ -1,0 +1,61 @@
+@charset "UTF-8";
+#sec2 {
+	font-size: 3em;
+	text-align: center;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+	background-color: #0C5B62;
+	color: #AC9F9F;
+	padding-top: 7%;
+	padding-bottom: 1%;
+	background-image: url(../images/movie1.jpg);
+}
+.my_h7 {
+	font-size: 5em;
+	color: #FFFFFF;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+}
+#sec3 {
+	font-size: 3em;
+	text-align: center;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+	background-color: #0C5B62;
+	color: #AC9F9F;
+	padding-top: 7%;
+	padding-bottom: 1%;
+}
+#sec5 {
+	font-size: 3em;
+	text-align: center;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+	background-color: #0C5B62;
+	color: #AC9F9F;
+	padding-top: 7%;
+	padding-bottom: 1%;
+}
+#sec1 {
+	font-size: 3em;
+	text-align: center;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+	background-color: #0C5B62;
+	color: #AC9F9F;
+	padding-top: 1%;
+	padding-bottom: 1%;
+}
+#sec4 {
+	font-size: 3em;
+	text-align: center;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+	background-color: #0C5B62;
+	color: #AC9F9F;
+	padding-top: 7%;
+	padding-bottom: 1%;
+}
+#carousel1 .carousel-inner .item {
+	background-color: #0C5B62;
+}
+#carousel3 .carousel-inner .item {
+	background-color: #0C5B62;
+}
+#carousel2 .carousel-inner .item {
+	background-color: #0C5B62;
+}

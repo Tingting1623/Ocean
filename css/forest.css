@@ -1,0 +1,116 @@
+@charset "UTF-8";
+.container-fluid {
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+}
+.container-fluid #sec7 {
+	margin-top: 8%;
+	margin-bottom: 50px;
+	font-size: 6.2em;
+	text-align: center;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	border-color: #565656;
+}
+.container-fluid #sec6 {
+	margin-top: 8%;
+	margin-bottom: 50px;
+	font-size: 6.2em;
+	text-align: center;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	border-color: #565656;
+}
+.container-fluid #sec8 {
+	margin-top: 8%;
+	margin-bottom: 50px;
+	font-size: 2.2em;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	text-align: center;
+}
+.container-fluid #sec9 {
+	margin-top: 8%;
+	margin-bottom: 50px;
+	font-size: 2.2em;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	text-align: center;
+}
+.my_h5 {
+	font-size: 3em;
+}
+#sec1 .col-lg-12 h1 {
+	position: absolute;
+	color: #FFFFFF;
+	font-weight: bold;
+	font-size: 8em;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	padding-left: 28%;
+	padding-right: 16%;
+	padding-top: 9%;
+	padding-bottom: 9%;
+}
+.container-fluid #sec2 {
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-size: x-large;
+	font-weight: normal;
+	margin-top: 5%;
+	margin-bottom: 5%;
+	text-align: center;
+}
+.my_h3 {
+	font-size: xx-large;
+	font-weight: bold;
+}
+#sec3 .col-lg-12 h1 {
+	position: absolute;
+	color: #FFFFFF;
+	font-size: 8em;
+	padding-left: 20%;
+	padding-top: 18%;
+	padding-bottom: 18%;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+}
+#sec4 .col-lg-12 h1 {
+	position: absolute;
+	color: #000000;
+	font-size: 8em;
+	padding-left: 49%;
+	padding-top: 13%;
+	padding-bottom: 13%;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+}
+
+@media (max-width:649px){
+#sec1 .col-lg-12 h1 {
+	font-size: 5em;
+	padding-top: 4%;
+	padding-right: 0%;
+	padding-left: 121px;
+}
+#sec4 .col-lg-12 h1 {
+	font-size: 4em;
+}
+#sec3 .col-lg-12 h1 {
+	font-size: 5em;
+	padding-left: 14%;
+	padding-right: 0%;
+	padding-top: 95px;
+}
+}
+
+@media (min-width:650px) and (max-width:959px){
+#sec4 .col-lg-12 h1 {
+	font-size: 5em;
+}
+#sec3 .col-lg-12 h1 {
+	font-size: 8em;
+	padding-top: 13%;
+	padding-right: 0%;
+	padding-left: 19%;
+}
+#sec1 .col-lg-12 h1 {
+	font-size: 8em;
+	padding-right: 0%;
+	padding-top: 68px;
+	padding-left: 20%;
+}
+}

@@ -1,0 +1,76 @@
+@charset "UTF-8";
+.container-fluid {
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+}
+.my_h5 {
+	font-size: 3em;
+}
+#sec1 .col-lg-12 h1 {
+	position: absolute;
+	color: #FFFFFF;
+	font-weight: bold;
+	font-size: 9em;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	padding-left: 17%;
+	padding-right: 6%;
+	padding-top: 7%;
+	padding-bottom: 9%;
+}
+.container-fluid #sec2 {
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-size: large;
+	font-weight: normal;
+	margin-top: 5%;
+	margin-bottom: 5%;
+	text-align: center;
+}
+.my_h3 {
+	font-size: xx-large;
+	font-weight: bold;
+}
+.container-fluid #sec3 {
+	background-color: #98D0CC;
+	color: #FFFFFF;
+	padding-left: 12%;
+	padding-right: 12%;
+	padding-top: 4%;
+	padding-bottom: 4%;
+	font-size: large;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+}
+.container-fluid #sec4 {
+	padding-top: 6%;
+	margin-bottom: 5%;
+}
+.container-fluid #sec5 {
+	background-color: #98BDD0;
+	color: #FFFFFF;
+	padding-left: 12%;
+	padding-right: 12%;
+	padding-top: 4%;
+	padding-bottom: 4%;
+	font-size: large;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+}
+.container-fluid #sec6 {
+	padding-top: 6%;
+	margin-bottom: 5%;
+}
+
+@media (max-width:649px){
+#sec1 .col-lg-12 h1 {
+	font-size: 4em;
+	padding-top: 6%;
+	padding-left: 19%;
+}
+}
+
+@media (min-width:650px) and (max-width:959px){
+#sec1 .col-lg-12 h1 {
+	font-size: 6em;
+	padding-top: 7%;
+	padding-left: 18%;
+}
+}

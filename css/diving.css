@@ -1,0 +1,111 @@
+@charset "UTF-8";
+#sec1   {
+	text-align: center;
+	font-size: 13em;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	background-image: url(../images/DIVING/diving1.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: 0% 16%;
+	color: #F0F0F0;
+	padding-top: 7%;
+	padding-bottom: 7%;
+}
+#sec3 {
+	background-image: url(../images/DIVING/diving3.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding-top: 10%;
+	padding-bottom: 10%;
+	background-position: 0% 78%;
+	color: #FFFFFF;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	font-size: 6em;
+	padding-left: 59%;
+}
+#sec5 {
+	background-image: url(../images/DIVING/diving5.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding-top: 10%;
+	padding-bottom: 10%;
+	background-position: 0% 78%;
+	color: #FFFFFF;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	font-size: 4em;
+	padding-left: 59%;
+}
+#sec4 {
+	background-image: url(../images/DIVING/diving4.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding-top: 10%;
+	padding-bottom: 10%;
+	background-position: 100% 78%;
+	color: #FFFFFF;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	font-size: 6em;
+	padding-left: 11%;
+}
+#sec2 {
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-size: x-large;
+	font-weight: normal;
+	margin-top: 5%;
+	margin-bottom: 5%;
+	text-align: center;
+}
+#sec6 {
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-size: x-large;
+	font-weight: normal;
+	margin-top: 5%;
+	margin-bottom: 5%;
+	text-align: center;
+}
+.my_h3 {
+	font-size: xx-large;
+	font-weight: bold;
+}
+.container-fluid {
+	width: 90%;
+	/* [disabled]margin-left: auto; */
+	/* [disabled]margin-right: auto; */
+}
+.container-fluid #sec7 {
+	margin-bottom: 5%;
+	font-size: x-large;
+}
+.my_tdwhite {
+	color: #FFFFFF;
+}
+tr:nth-child(odd)   {
+	background-color: #D7E8EC;
+}
+#sec7 .col-lg-12 table {
+	width: 100%;
+}
+.container-fluid #map {
+	margin-bottom: 10%;
+}
+
+@media (max-width:649px){
+#sec3 {
+	font-size: 3em;
+}
+#sec5 {
+	font-size: 2em;
+}
+#sec4 {
+	font-size: 3em;
+}
+}
+
+
+img[usemap] {
+border: none;
+height: auto;
+max-width: 100%;
+width: auto;
+}
+

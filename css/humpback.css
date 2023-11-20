@@ -1,0 +1,136 @@
+@charset "UTF-8";
+.container-fluid {
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+}
+.container-fluid #sec8 {
+	font-size: 8.2em;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	text-align: center;
+	margin-top: 9%;
+}
+.container-fluid #sec2 {
+	font-size: 6.2em;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	text-align: center;
+	margin-top: 9%;
+}
+.my_h5 {
+	font-size: 3em;
+}
+.container-fluid #sec6 {
+	margin-top: 3%;
+	padding-top: 1%;
+	padding-left: 0%;
+	background-repeat: no-repeat;
+	background-size: contain;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	border-bottom: 2px solid #807C7C;
+	font-size: 5em;
+	font-weight: bold;
+}
+.container-fluid .embed-responsive.embed-responsive-16by9 {
+	margin-top: 3%;
+}
+.container-fluid #sec5 {
+	margin-top: 3%;
+	padding-top: 1%;
+	padding-left: 0%;
+	background-repeat: no-repeat;
+	background-size: contain;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	font-size: large;
+	border-bottom: 2px solid #807C7C;
+}
+.container-fluid #sec11 {
+	margin-top: 3%;
+	padding-top: 1%;
+	padding-left: 0%;
+	background-repeat: no-repeat;
+	background-size: contain;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	font-size: large;
+	/* [disabled]border-left-color: #8A8686; */
+	/* [disabled]border-right-color: #8A8686; */
+	border-bottom: 2px solid #8A8686;
+	/* [disabled]border-top-color: #8A8686; */
+	/* [disabled]border-left-style: solid; */
+	/* [disabled]border-right-style: solid; */
+	/* [disabled]border-top-style: solid; */
+	/* [disabled]border-left-width: 2px; */
+	/* [disabled]border-right-width: 2px; */
+	/* [disabled]border-top-width: 2px; */
+}
+.container-fluid #sec14 {
+	margin-top: 3%;
+	padding-top: 1%;
+	padding-left: 0%;
+	background-repeat: no-repeat;
+	background-size: contain;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	font-size: large;
+	border-bottom: 2px solid #807C7C;
+}
+.container-fluid #sec15 {
+	margin-top: 3%;
+	padding-top: 1%;
+	padding-left: 0%;
+	background-repeat: no-repeat;
+	background-size: contain;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	font-size: large;
+	border-bottom: 2px solid #807C7C;
+	margin-bottom: 7%;
+}
+.container-fluid #sec10 {
+	margin-top: 17%;
+	padding-top: 0%;
+	padding-left: 0%;
+	padding-bottom: 0%;
+	background-repeat: no-repeat;
+	background-size: contain;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	font-size: 2.5em;
+	text-align: center;
+}
+#sec3 {
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: 94% 0%;
+	margin-top: 3%;
+	margin-bottom: 0%;
+	text-align: left;
+	font-size: 1.5em;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	padding-right: 3%;
+	padding-left: 3%;
+}
+#sec4 {
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: 94% 0%;
+	margin-top: 3%;
+	margin-bottom: 0%;
+	text-align: left;
+	font-size: 1.5em;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	padding-right: 3%;
+	padding-left: 3%;
+}
+.my_h3 {
+	font-size: xx-large;
+	font-weight: bold;
+}
+.container-fluid #sec12 {
+	text-align: center;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	font-size: xx-large;
+	margin-top: 9%;
+}
+
+@media (min-width:1200px) and (max-width:3000px){
+#sec8 .col-lg-12 #a1 {
+	margin-top: 2%;
+}
+}
